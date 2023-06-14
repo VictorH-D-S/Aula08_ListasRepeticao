@@ -8,46 +8,67 @@ namespace Aula08_ListasRepeticao
 {
     class Program
     {
-        static List<string> nomes = new List<string>();
-        static int posicao;
-        static int quant = nomes.Count;
+
         
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Bem vindo ao sistema de usuários.\n======================");
-            Console.WriteLine("Escolha o que deseja fazer:\n1- Cadastrar novo usuário\n2- Buscar usuário existente.");
-            string opcao = Console.ReadLine();
-            if (opcao == "1")
+            List<string> nome = new List<String>();
+            nome.Add("Stella");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Sexo");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
+
+            int contador = 0;
+                while (contador < nome.Count)
             {
-                Console.WriteLine("Digite o novo cadastro:  ");
-                nomes.Add(Console.ReadLine());
-                Console.WriteLine("==========Nome Cadastrado com Sucesso!==========");
-                Console.ReadKey();
-                Console.Clear();
-                Main(args);
-                return;
-
+                Console.WriteLine($"O nome é {nome[contador]}");
+                contador++;
             }
-            if(opcao == "2")
-            {
-
-                Console.WriteLine("Insira a posição em que deseja buscar: ");
-                posicao = int.Parse(Console.ReadLine());
-                Console.WriteLine($"Nome: {nomes[posicao]}");
-
-                if ()
-                {
-
-                }
-
-            }
-
-            
 
 
             Console.ReadKey();
         }
+        void RepeticaoWhile()
+        {
+            //repetições (loop)
+
+            double contador = 0;
+
+            while (contador < 15)
+            {
+                Console.WriteLine($"Radovid chupa pau mole.");
+                //Para acumular valores em uma variável
+                contador = contador + 1; // repete o valor que tinha antes + o novo
+                contador += 1; // acrescenta um valor na variável que já existe
+                contador++; // adiciona 1, mas apenas 
+             
+                // Também é possível usar outros operadores matemáticos ANTES do igual
+                contador = contador / 2;
+                contador /= 2;
+                contador -= 2;
+                contador *= 2;
+            }
+
+
+            Console.ReadKey();
+        }
+   
         void ARREIZ()
         {
             
