@@ -1,0 +1,7 @@
+C:\Users\victor.hsantos45\source\repos\Aula08_ListasRepeticao\Aula08_ListasRepeticao\bin\Debug\Aula08_ListasRepeticao.exe.config
+C:\Users\victor.hsantos45\source\repos\Aula08_ListasRepeticao\Aula08_ListasRepeticao\bin\Debug\Aula08_ListasRepeticao.exe
+C:\Users\victor.hsantos45\source\repos\Aula08_ListasRepeticao\Aula08_ListasRepeticao\bin\Debug\Aula08_ListasRepeticao.pdb
+C:\Users\victor.hsantos45\source\repos\Aula08_ListasRepeticao\Aula08_ListasRepeticao\obj\Debug\Aula08_ListasRepeticao.csproj.AssemblyReference.cache
+C:\Users\victor.hsantos45\source\repos\Aula08_ListasRepeticao\Aula08_ListasRepeticao\obj\Debug\Aula08_ListasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\victor.hsantos45\source\repos\Aula08_ListasRepeticao\Aula08_ListasRepeticao\obj\Debug\Aula08_ListasRepeticao.exe
+C:\Users\victor.hsantos45\source\repos\Aula08_ListasRepeticao\Aula08_ListasRepeticao\obj\Debug\Aula08_ListasRepeticao.pdb
