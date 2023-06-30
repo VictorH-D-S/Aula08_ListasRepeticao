@@ -13,12 +13,12 @@ namespace Aula08_ListasRepeticao
         static void Main(string[] args)
         {
             List<string> nome = new List<String>();
-            nome.Add("Stella");
             nome.Add("Miltom");
             nome.Add("Miltom");
             nome.Add("Miltom");
             nome.Add("Miltom");
-            nome.Add("Sexo");
+            nome.Add("Miltom");
+            nome.Add("Miltom");
             nome.Add("Miltom");
             nome.Add("Miltom");
             nome.Add("Miltom");
