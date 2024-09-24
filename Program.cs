@@ -100,7 +100,7 @@ namespace Aula08_ListasRepeticao
             //Console.WriteLine($"Terceito nome: {nomes[2]}");
 
             int quant = nomes.Count;
-            Console.WriteLine($"Os nomes são dog = {quant}");
+            Console.WriteLine($"Os nomes são = {quant}");
             
             Console.ReadKey();
 
