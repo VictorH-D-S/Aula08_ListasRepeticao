@@ -52,7 +52,7 @@ namespace Aula08_ListasRepeticao
 
             while (contador < 15)
             {
-                Console.WriteLine($"Radovid chupa pau mole.");
+                Console.WriteLine($"Valores da Lista:.");
                 //Para acumular valores em uma variável
                 contador = contador + 1; // repete o valor que tinha antes + o novo
                 contador += 1; // acrescenta um valor na variável que já existe
